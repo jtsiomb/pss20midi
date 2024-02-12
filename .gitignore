@@ -1,0 +1,7 @@
+*.o
+*.hex
+*.eep
+pss20midi
+*.swp
+*.kicad_prl
+*.zip
