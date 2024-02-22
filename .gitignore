@@ -5,3 +5,5 @@ pss20midi
 *.swp
 *.kicad_prl
 *.zip
+fp-lib-table
+fp-info-cache
