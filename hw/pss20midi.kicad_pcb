@@ -9044,7 +9044,7 @@
     (stroke (width 0.1) (type default)) (fill none) (layer "Edge.Cuts") (tstamp e4ea7974-430d-4be7-af11-3beade7c3301))
   (gr_line (start 341.5 113.5) (end 343.5 113.5)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp e64cec91-d021-4b20-af79-3cb709efb9c3))
-  (gr_text "Yamaha PSS 20 MIDI conversion\n\nCopyright © 2024\n  John Tsiombikas <nuclear@mutantstargoat.com>\n  Eleni Maria Stea <elene.mst@gmail.com>\n\nFree Hardware & Software\nGNU General Public License v3 or later" (at 285.5 126) (layer "B.SilkS") (tstamp 6a7a6299-3517-4b54-b502-3ddd3ef6620a)
+  (gr_text "Yamaha PSS 20 MIDI conversion\n\nCopyright © 2024\n  John Tsiombikas <nuclear@mutantstargoat.com>\n  Eleni Maria Stea <elene.mst@gmail.com>\n\nFree Hardware & Software\nGNU General Public License v3 or later\n\nhttps://github.com/jtsiomb/pss20midi" (at 285.5 130.5) (layer "B.SilkS") (tstamp 6a7a6299-3517-4b54-b502-3ddd3ef6620a)
     (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left bottom mirror))
   )
 
