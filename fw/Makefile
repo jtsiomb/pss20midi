@@ -10,7 +10,7 @@ mcu_dude = m328pb
 CC = avr-gcc
 OBJCOPY = avr-objcopy
 
-CFLAGS = -Os -pedantic -Wall -mmcu=$(mcu_gcc) -DF_CPU=4000000
+CFLAGS = -Os -pedantic -Wall -mmcu=$(mcu_gcc) -DF_CPU=4000000 -DDBGCON
 LDFLAGS = -Wl,-Map,$(bin).map -mmcu=$(mcu_gcc)
 
 .PHONY: all
