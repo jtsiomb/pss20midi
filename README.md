@@ -6,9 +6,6 @@ About
 This is a replacement board for the YAMAHA PSS-20 vintage toy keyboard, which
 converts it into a polyphonic MIDI keyboard.
 
-> Warning: this is work in progress, incomplete and untested.
-> Check back for updates.
-
 License
 -------
 Copyright (C) 2024 John Tsiombikas <nuclear@mutantstargoat.com>,
